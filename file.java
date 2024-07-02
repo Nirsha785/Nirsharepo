@@ -36,4 +36,6 @@ printPattern(n);
 }  
 }
 
+
+Loan closed
 `
